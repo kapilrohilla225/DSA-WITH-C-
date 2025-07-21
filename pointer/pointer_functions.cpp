@@ -35,7 +35,7 @@ int main()
     cout<<"before ->"<<ptr<<endl;//same
     update(ptr);
     //update ptr pointer address only in function not in main function we need to update in main function
-    cout<<"After ->"<<ptr<<endl;//same
+    cout<<"After ->"<<ptr<<endl;//same 5
     cout<<"After ->"<<*ptr<<endl;//updat
 
     int arr[5] = {1,2,3,4,5};
